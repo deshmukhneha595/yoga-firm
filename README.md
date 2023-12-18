@@ -56,8 +56,11 @@ HTML, CSS, JS, PHP, MySQL
 
 # Design Approach:
 Created Registration form which takes Name, Age, Start_date, email and password.
+
 After submitting details, redirect to payment page.
+
 After payment, Login through email and password.
+
 View Details and Edit Batch timings in portal.
 
 
