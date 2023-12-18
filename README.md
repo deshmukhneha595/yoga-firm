@@ -39,3 +39,20 @@ Database Schema:
 
 ![yoga_firm_schema(1)](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/aca235bf-1d1b-4742-ac41-857b6c9aaabb)
 
+![yoga_firm_schema(2)](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/ccc2302f-2b5a-422c-ac9d-801cfd4fdcaa)
+
+![yoga_firm_schema(3)](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/246eb031-de48-45a6-8b55-d2f0e09a2aac)
+
+![yoga_firm_schema(4)](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/38b95cd2-9863-49dc-9237-c1af62ffeffd)
+
+![yoga_firm_schema](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/b6f75791-e325-4d57-8209-3f276ce6111f)
+
+# ER Diagram:
+
+![ER Diagram](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/f8ac903b-757a-4901-b75b-17cd17c0693e)
+
+
+
+
+
+
