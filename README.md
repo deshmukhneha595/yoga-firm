@@ -51,7 +51,14 @@ Database Schema:
 
 ![ER Diagram](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/f8ac903b-757a-4901-b75b-17cd17c0693e)
 
+# Tech stack :
+HTML, CSS, JS, PHP, MySQL
 
+# Design Approach:
+Created Registration form which takes Name, Age, Start_date, email and password.
+After submitting details, redirect to payment page.
+After payment, Login through email and password.
+View Details and Edit Batch timings in portal.
 
 
 
