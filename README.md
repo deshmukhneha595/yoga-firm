@@ -1,5 +1,7 @@
 # yoga-firm
-Problem Statement:
+# Problem Statement:
+
+
 Assume that you are the CTO of an outsourcing firm which has been chosen to build an
 admission form for the Yoga Classes which happen every month.
 Requirements for the admission form are:
@@ -13,7 +15,9 @@ participants can choose any batch in a month and can move to any other batch nex
 month. I.e. participants can shift from one batch to another in different months but in the
 same month they need to be in the same batch.
 
-Implementation details:
+# Implementation details:
+
+
 You will be building a simple form in React (preferably or any basic frontend language) to
 accept the details from user and make a call to a REST api (in any backend language) which
 does the following:
