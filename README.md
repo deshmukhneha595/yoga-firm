@@ -32,3 +32,10 @@ implement it.
 
 ● Return the response to front-end depending on the payment response from
 CompletePayment() function
+
+# Steps:
+
+Database Schema:
+
+![yoga_firm_schema(1)](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/aca235bf-1d1b-4742-ac41-857b6c9aaabb)
+
