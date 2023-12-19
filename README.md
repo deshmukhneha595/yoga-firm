@@ -63,6 +63,25 @@ After payment, Login through email and password.
 
 View Details and Edit Batch timings in portal.
 
+# How it works:
+
+![image](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/c79cffb4-7f9e-4230-bc5e-0230dce69a57)
+
+![image](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/d236ef6c-0759-4b3f-bdbb-f6b4fe7d6135)
+
+![image](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/06528dfd-8fe9-4017-b53c-39630d35ef9a)
+
+![image](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/88423df9-a46e-4fb9-ad07-4cf93e2e0d39)
+
+![image](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/9b763919-c5eb-49ae-bdb3-800de333bd4c)
+
+![image](https://github.com/deshmukhneha595/yoga-firm/assets/83139163/7e7c8ec8-969f-4f61-824c-b936ef4c9093)
+
+
+
+
+
+
 
 
 
